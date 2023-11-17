@@ -60,7 +60,14 @@ Please contact me with any questions (email on the left).
 </div>
 
 
+<div>
+<h3>Recent News</h3>
+- <span style="color:Blue"> [Oct 2023] </span> - Presented my work on ways to integrate Generative AI to your benefit at [VT Skillshop Series - Leveraging Creative Technologies](https://vt.joinhandshake.com/stu/events/1378245).
+- <span style="color:Blue"> [Oct 2023] </span> - Our Lab was featured in "[The Dark Side of AI](https://www.vpm.org/2023-10-19/the-dark-side-of-ai)" by [VPM](https://www.vpm.org/) News.
+- <span style="color:Blue"> [Oct 2023] </span> - Student Spotlight by [Commonwealth Cyber Initiative (CCI)](https://www.linkedin.com/posts/commonwealth-cyber-initiative-southwest-virginia_deepfake-misinformation-cybersecurityawarenessmonth-activity-7116176081182707712-QyEw/?utm_source=share&utm_medium=member_android).
+- <span style="color:Blue"> [July 2023] </span> - Our paper titled "Deepfake Text Detection: Limitations and Opportunities" was featured in [Communications of the ACM](https://cacm.acm.org/magazines/2023/7/274036-the-rise-of-the-chatbots/fulltext).
+- <span style="color:Blue"> [Nov 2022] </span> - Our paper titled "Deepfake Text Detection: Limitations and Opportunities" was featured in [TechXplore](https://techxplore.com/news/2022-11-strengths-limitations-approaches-deepfake-text.html).
 
-
+</div>
 
 
