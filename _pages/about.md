@@ -20,10 +20,12 @@ Please contact me with any questions (email on the left).
 <div>
 <h3>Publications</h3>
 
-<b>A First Look at Toxicity Injection Attacks on Open-domain Chatbots</b> (To Appear)
+<b>A First Look at Toxicity Injection Attacks on Open-domain Chatbots</b> 
 <br>Aravind Cheruvu, Connor Weeks, <b>Sifat Muhammad Abdullah</b>, Shravya Kanchi, Danfeng Yao, Bimal Viswanath.
 <br>ACSAC
 <br>Austin, Texas, Dec 2023.
+<br>
+<a href="https://github.com/SifatMd/sifatmd.github.io/blob/master/files/acsac23_final.pdf" class="btn-sm btn-success text-decoration-none">PDF</a>
 
 <br>
 <br>
@@ -34,8 +36,8 @@ Please contact me with any questions (email on the left).
 <br>San Francisco, CA, May 2023.
 <br>
 <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10179387" class="btn-sm btn-success text-decoration-none">PDF</a>
-<a href="https://www.youtube.com/watch?v=UEjWBVc85tc" class="btn-sm btn-primary text-decoration-none">Video</a>
 <a href="https://github.com/jmpu/DeepfakeTextDetection" class="btn-sm btn-danger text-decoration-none">Code and Dataset</a>
+<a href="https://www.youtube.com/watch?v=UEjWBVc85tc" class="btn-sm btn-primary text-decoration-none">Video</a>
 
 <br>
 <br>
