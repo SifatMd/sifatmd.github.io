@@ -25,7 +25,8 @@ Please contact me with any questions (email on the left).
 <br>ACSAC
 <br>Austin, Texas, Dec 2023.
 <br>
-<a href="https://github.com/SifatMd/sifatmd.github.io/blob/master/files/acsac23_final.pdf" class="btn-sm btn-success text-decoration-none">PDF</a>
+<a href="https://dl.acm.org/doi/pdf/10.1145/3627106.3627122" class="btn-sm btn-success text-decoration-none">PDF</a>
+<a href="https://github.com/secml-lab-vt/Chatbot-Toxicity-Injection" class="btn-sm btn-danger text-decoration-none">Code and Dataset</a>
 
 <br>
 <br>
