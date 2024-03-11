@@ -20,13 +20,11 @@ Please contact me with any questions (email on the left).
 <div>
 <h3>Publications</h3>
 
-<b>An Analysis of Recent Advances in Deepfake Image Detection in an Evolving Threat Landscape</b> 
+<b>An Analysis of Recent Advances in Deepfake Image Detection in an Evolving Threat Landscape</b>  (To Appear)
 <br><b>Sifat Muhammad Abdullah</b>, Aravind Cheruvu, Shravya Kanchi, Tijay Chung, Peng Gao, Murtuza Jadliwala, Bimal Viswanath.
 <br>IEEE S&P
 <br>San Francisco, CA, May 2024.
 <br>
-<a href="https://dl.acm.org/doi/pdf/10.1145/3627106.3627122" class="btn-sm btn-success text-decoration-none">PDF</a>
-<a href="https://github.com/secml-lab-vt/Chatbot-Toxicity-Injection" class="btn-sm btn-danger text-decoration-none">Code and Dataset</a>
 
 <br>
 <br>
