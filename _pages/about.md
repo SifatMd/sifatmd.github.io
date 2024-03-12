@@ -21,8 +21,8 @@ Please contact me with any questions (email on the left).
 <h3>Publications</h3>
 
 <b>An Analysis of Recent Advances in Deepfake Image Detection in an Evolving Threat Landscape</b>  (To Appear)
-<br><b>Sifat Muhammad Abdullah</b>, Aravind Cheruvu, Shravya Kanchi, Tijay Chung, Peng Gao, Murtuza Jadliwala, Bimal Viswanath.
-<br>IEEE S&P
+<br><b>Sifat Muhammad Abdullah</b>, Aravind Cheruvu, Shravya Kanchi, Taejoong Chung, Peng Gao, Murtuza Jadliwala, Bimal Viswanath.
+<br>IEEE Security & Privacy
 <br>San Francisco, CA, May 2024.
 <br>
 
@@ -76,6 +76,7 @@ Please contact me with any questions (email on the left).
 <div>
 <h3>Recent News</h3>
 <ul>
+  <li><span style="color:Blue"> [Mar 2024] </span> - Winner of CCI SWVA Cyber Innovation Scholar Program.</li>
   <li><span style="color:Blue"> [Oct 2023] </span> - Presented my work on ways to integrate Generative AI to your benefit at <a href="https://vt.joinhandshake.com/stu/events/1378245">VT Skillshop Series - Leveraging Creative Technologies</a>.</li>
   <li><span style="color:Blue"> [Oct 2023] </span> - Our Lab was featured in <a href="https://www.vpm.org/2023-10-19/the-dark-side-of-ai">"The Dark Side of AI"</a> by <a href="https://www.vpm.org/">VPM</a> News.</li>
   <li><span style="color:Blue"> [Oct 2023] </span> - Student Spotlight by <a href="https://www.linkedin.com/posts/commonwealth-cyber-initiative-southwest-virginia_deepfake-misinformation-cybersecurityawarenessmonth-activity-7116176081182707712-QyEw/?utm_source=share&utm_medium=member_android">Commonwealth Cyber Initiative (CCI)</a>.</li>
