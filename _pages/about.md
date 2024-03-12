@@ -27,7 +27,6 @@ Please contact me with any questions (email on the left).
 <br>
 
 <br>
-<br>
 
 <b>A First Look at Toxicity Injection Attacks on Open-domain Chatbots</b> 
 <br>Aravind Cheruvu, Connor Weeks, <b>Sifat Muhammad Abdullah</b>, Shravya Kanchi, Danfeng Yao, Bimal Viswanath.
