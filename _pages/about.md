@@ -44,7 +44,7 @@ Please contact me with any questions (email on the left).
 <br>IEEE S&P (Oakland) 
 <br>San Francisco, CA, May 2023.
 <br>
-<a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10179387" class="btn-sm btn-success text-decoration-none">PDF</a>
+<a href="https://arxiv.org/abs/2210.09421" class="btn-sm btn-success text-decoration-none">PDF</a>
 <a href="https://github.com/jmpu/DeepfakeTextDetection" class="btn-sm btn-danger text-decoration-none">Code and Dataset</a>
 <a href="https://www.youtube.com/watch?v=UEjWBVc85tc" class="btn-sm btn-primary text-decoration-none">Video</a>
 
