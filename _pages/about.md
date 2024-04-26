@@ -28,6 +28,7 @@ Please contact me with any questions (email on the left).
 <a href="https://arxiv.org/abs/2404.16212" class="btn-sm btn-success text-decoration-none">PDF</a>
 
 <br>
+<br>
 
 <b>A First Look at Toxicity Injection Attacks on Open-domain Chatbots</b> 
 <br>Aravind Cheruvu, Connor Weeks, <b>Sifat Muhammad Abdullah</b>, Shravya Kanchi, Danfeng Yao, Bimal Viswanath.
@@ -78,6 +79,7 @@ Please contact me with any questions (email on the left).
 <ul>
   <li><span style="color:Blue"> [Apr 2024] </span> - Presented my <a href="https://docs.google.com/presentation/d/1nSr1KnLya0VWi6gCRTsQ4NJC74etvnxM/edit?usp=sharing&ouid=109278097396550105742&rtpof=true&sd=true">poster</a> on "An Analysis of Recent Advances in Deepfake Image Detection in an Evolving Threat Landscape" at the <a href="https://cyberinitiative.org/events-programs/2024/cci-symposium-2024.html">CCI Symposium 2024</a>.</li>
   <li><span style="color:Blue"> [Mar 2024] </span> - Presented my poster on "An Analysis of Recent Advances in Deepfake Image Detection in an Evolving Threat Landscape" at the <a href="https://dmv-sec-workshop.github.io/">DMV Security Workshop 2024</a>.</li>
+  <li><span style="color:Blue"> [Mar 2024] </span> - Our paper titled "An Analysis of Recent Advances in Deepfake Image Detection in an Evolving Threat Landscape" was accepted at <a href="https://sp2024.ieee-security.org/">IEEE S&P 2024</a>.</li>
   <li><span style="color:Blue"> [Mar 2024] </span> - Offered CCI SWVA Cyber Innovation Scholarship.</li>
   <li><span style="color:Blue"> [Oct 2023] </span> - Presented my work on ways to integrate Generative AI to your benefit at <a href="https://vt.joinhandshake.com/stu/events/1378245">VT Skillshop Series - Leveraging Creative Technologies</a>.</li>
   <li><span style="color:Blue"> [Oct 2023] </span> - Our Lab was featured in <a href="https://www.vpm.org/2023-10-19/the-dark-side-of-ai">"The Dark Side of AI"</a> by <a href="https://www.vpm.org/">VPM News Focal Point</a>.</li>
