@@ -20,7 +20,7 @@ Please contact me with any questions (email on the left).
 <div>
 <h3>Publications</h3>
 
-<b>An Analysis of Recent Advances in Deepfake Image Detection in an Evolving Threat Landscape</b>  (To Appear)
+<b>An Analysis of Recent Advances in Deepfake Image Detection in an Evolving Threat Landscape</b>
 <br><b>Sifat Muhammad Abdullah</b>, Aravind Cheruvu, Shravya Kanchi, Taejoong Chung, Peng Gao, Murtuza Jadliwala, Bimal Viswanath.
 <br>IEEE Security & Privacy
 <br>San Francisco, CA, May 2024.
