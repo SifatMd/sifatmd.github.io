@@ -26,6 +26,7 @@ Please contact me with any questions (email on the left).
 <br>San Francisco, CA, May 2024.
 <br>
 <a href="https://arxiv.org/abs/2404.16212" class="btn-sm btn-success text-decoration-none">PDF</a>
+<a href="https://github.com/secml-lab-vt/EvolvingThreat-DeepfakeImageDetect" class="btn-sm btn-danger text-decoration-none">Code and Datasets</a>
 
 <br>
 <br>
@@ -36,7 +37,7 @@ Please contact me with any questions (email on the left).
 <br>Austin, Texas, Dec 2023.
 <br>
 <a href="https://dl.acm.org/doi/pdf/10.1145/3627106.3627122" class="btn-sm btn-success text-decoration-none">PDF</a>
-<a href="https://github.com/secml-lab-vt/Chatbot-Toxicity-Injection" class="btn-sm btn-danger text-decoration-none">Code and Dataset</a>
+<a href="https://github.com/secml-lab-vt/Chatbot-Toxicity-Injection" class="btn-sm btn-danger text-decoration-none">Code and Datasets</a>
 
 <br>
 <br>
@@ -47,7 +48,7 @@ Please contact me with any questions (email on the left).
 <br>San Francisco, CA, May 2023.
 <br>
 <a href="https://arxiv.org/abs/2210.09421" class="btn-sm btn-success text-decoration-none">PDF</a>
-<a href="https://github.com/jmpu/DeepfakeTextDetection" class="btn-sm btn-danger text-decoration-none">Code and Dataset</a>
+<a href="https://github.com/jmpu/DeepfakeTextDetection" class="btn-sm btn-danger text-decoration-none">Code and Datasets</a>
 <a href="https://www.youtube.com/watch?v=UEjWBVc85tc" class="btn-sm btn-primary text-decoration-none">Video</a>
 
 <br>
@@ -58,7 +59,7 @@ Please contact me with any questions (email on the left).
 <br>PLOS ONE Journal, 2022.
 <br>
 <a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0265360" class="btn-sm btn-success text-decoration-none">PDF</a> 
-<a href="https://github.com/ashiq24/CHAPAO" class="btn-sm btn-danger text-decoration-none">Code and Dataset</a>
+<a href="https://github.com/ashiq24/CHAPAO" class="btn-sm btn-danger text-decoration-none">Code and Datasets</a>
 
 <br>
 <br>
