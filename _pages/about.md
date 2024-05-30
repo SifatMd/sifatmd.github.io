@@ -78,6 +78,7 @@ Please contact me with any questions (email on the left).
 <div>
 <h3>Recent News</h3>
 <ul>
+  <li><span style="color:Blue"> [May 2024] </span> - Presented my paper "An Analysis of Recent Advances in Deepfake Image Detection in an Evolving Threat Landscape" at <a href="https://sp2024.ieee-security.org/">IEEE S&P, 2024</a>.</li>
   <li><span style="color:Blue"> [Apr 2024] </span> - Presented my <a href="https://docs.google.com/presentation/d/1nSr1KnLya0VWi6gCRTsQ4NJC74etvnxM/edit?usp=sharing&ouid=109278097396550105742&rtpof=true&sd=true">poster</a> on "An Analysis of Recent Advances in Deepfake Image Detection in an Evolving Threat Landscape" at the <a href="https://cyberinitiative.org/events-programs/2024/cci-symposium-2024.html">CCI Symposium 2024</a>.</li>
   <li><span style="color:Blue"> [Mar 2024] </span> - Presented my poster on "An Analysis of Recent Advances in Deepfake Image Detection in an Evolving Threat Landscape" at the <a href="https://dmv-sec-workshop.github.io/">DMV Security Workshop 2024</a>.</li>
   <li><span style="color:Blue"> [Mar 2024] </span> - Our paper titled "An Analysis of Recent Advances in Deepfake Image Detection in an Evolving Threat Landscape" was accepted at <a href="https://sp2024.ieee-security.org/">IEEE S&P 2024</a>.</li>
