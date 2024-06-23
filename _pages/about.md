@@ -27,6 +27,7 @@ Please contact me with any questions (email on the left).
 <br>
 <a href="https://arxiv.org/abs/2404.16212" class="btn-sm btn-success text-decoration-none">PDF</a>
 <a href="https://github.com/secml-lab-vt/EvolvingThreat-DeepfakeImageDetect" class="btn-sm btn-danger text-decoration-none">Code and Datasets</a>
+<a href="https://www.youtube.com/watch?v=Eg8Qb3zXdD4" class="btn-sm btn-primary text-decoration-none">Video</a>
 
 <br>
 <br>
