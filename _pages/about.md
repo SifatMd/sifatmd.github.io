@@ -67,7 +67,7 @@ Please contact me with any questions (email on the left).
 
 <b>A Web-Based System for Efficient Contact Tracing Query in a Large Spatio-Temporal Database</b>
 <br>Shadman Saqib Eusuf, Kazi Ashik Islam, Mohammed Eunus Ali, <b>Sifat Muhammad Abdullah</b>, Abdus Salam Azad.
-<br>SIGSPATIAL
+<br>ACM SIGSPATIAL
 <br>Seattle, WA, Nov 2020.
 <br>
 <a href="https://dl.acm.org/doi/10.1145/3397536.3422350" class="btn-sm btn-success text-decoration-none">PDF</a>
