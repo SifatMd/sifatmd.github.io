@@ -12,7 +12,7 @@ redirect_from:
 </head>
 
 
-Hi! I'm Sifat Muhammad Abdullah, a 4th year Ph.D. student at the Department of Computer Science, [Virginia Tech](https://cs.vt.edu/). I am advised by [Dr. Bimal Viswanath](https://people.cs.vt.edu/vbimal/). My research interests center around the security of machine learning models. Particularly, I focus on evaluating the reliability and robustness of Generative AI defense strategies using foundation models, and on ways to build more generalizable defenses. I have received my Bachelor's degree in Computer Science from [BUET](https://cse.buet.ac.bd/) in April, 2019. 
+Hi! I'm Sifat Muhammad Abdullah, a 4th year Ph.D. student at the Department of Computer Science, [Virginia Tech](https://cs.vt.edu/). I am advised by [Dr. Bimal Viswanath](https://people.cs.vt.edu/vbimal/). My research interests center around the security of VLMs and LLMs. Particularly, I focus on analyzing and enhancing the robustness of Multimodal and Large Language models against adversarial attacks, and make them safer against real-world threats. I have received my Bachelor's degree in Computer Science from [BUET](https://cse.buet.ac.bd/) in April, 2019. 
 
 Please contact me with any questions (email on the left).
 
