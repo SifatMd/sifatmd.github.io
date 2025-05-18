@@ -92,7 +92,7 @@ Please contact me with any questions (email on the left).
   <li><span style="color:Blue"> [June 2022] </span> - Our paper on "A First Look at Toxicity Injection Attacks on Open-domain Chatbots" was accepted at <a href="https://www.acsac.org/2023/program/papers/">ACSAC 2023</a>.</li>
   <li><span style="color:Blue"> [July 2023] </span> - Our paper titled "Deepfake Text Detection: Limitations and Opportunities" was featured in <a href="https://cacm.acm.org/magazines/2023/7/274036-the-rise-of-the-chatbots/fulltext">Communications of the ACM</a>.</li>
   <li><span style="color:Blue"> [Nov 2022] </span> - Our paper titled "Deepfake Text Detection: Limitations and Opportunities" was featured in <a href="https://techxplore.com/news/2022-11-strengths-limitations-approaches-deepfake-text.html">TechXplore</a>.</li>
-  <li><span style="color:Blue"> [June 2022] </span> - Our paper on "Deepfake Text Detection: Limitations and Opportunities" was accepted at <a href="https://sp2023.ieee-security.org/">IEEE S&P 2023</a>, <b>a top-tier A\* conference</b>.</li>
+  <li><span style="color:Blue"> [June 2022] </span> - Our paper on "Deepfake Text Detection: Limitations and Opportunities" was accepted at <a href="https://sp2023.ieee-security.org/">IEEE S&P 2023</a>, <b>a top-tier A* conference</b>.</li>
 </ul>
 
 </div>
