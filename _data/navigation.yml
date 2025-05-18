@@ -3,8 +3,8 @@ main:
   - title: "CV"
     url: /CV_2025.pdf
     
-  - title: "Resume"
-    url: /Resume_2025.pdf
+  # - title: "Resume"
+  #   url: /Resume_2025.pdf
 # main:
 #   - title: "Publications"
 #     url: /publications/
