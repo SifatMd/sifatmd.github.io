@@ -12,7 +12,7 @@ redirect_from:
 </head>
 
 
-Hi! I'm Sifat Muhammad Abdullah, a 5th year Ph.D. student at the Department of Computer Science, [Virginia Tech](https://cs.vt.edu/). I am advised by [Dr. Bimal Viswanath](https://people.cs.vt.edu/vbimal/). My research interests center around the security & reasoning capabilities of VLMs and LLMs. Particularly, I focus on analyzing and enhancing the robustness of Multimodal and Large Language models against adversarial attacks, and leverage inference-time reasoning to make them safer against real-world threats. I have received my Bachelor's degree in Computer Science from [BUET](https://cse.buet.ac.bd/) in April, 2019. 
+Hi! I'm Sifat Muhammad Abdullah, a 5th year Ph.D. student at the Department of Computer Science, [Virginia Tech](https://cs.vt.edu/). I am currently interning at Hewlett Packard (HP) Labs as a Machine Learning Research Associate, working on enhancing the efficiency of LLM fine-tuning, adapting LLMs for diverse applications, and advancing their reasoning capabilities. At Virginia Tech, I am advised by [Dr. Bimal Viswanath](https://people.cs.vt.edu/vbimal/). My research interests center around the security & reasoning capabilities of MLLMs and LLMs. Particularly, I focus on analyzing and enhancing the robustness of Multimodal and Large Language models against adversarial attacks, and leverage inference-time reasoning to make them safer against real-world threats. I have received my Bachelor's degree in Computer Science from [BUET](https://cse.buet.ac.bd/) in April, 2019. 
 
 Please contact me with any questions (email on the left).
 
@@ -84,7 +84,7 @@ Please contact me with any questions (email on the left).
   <li><span style="color:Blue"> [May 2024] </span> - Presented my paper "An Analysis of Recent Advances in Deepfake Image Detection in an Evolving Threat Landscape" at <a href="https://sp2024.ieee-security.org/">IEEE S&P, 2024</a>.</li>
   <li><span style="color:Blue"> [Apr 2024] </span> - Presented my <a href="https://docs.google.com/presentation/d/1nSr1KnLya0VWi6gCRTsQ4NJC74etvnxM/edit?usp=sharing&ouid=109278097396550105742&rtpof=true&sd=true">poster</a> on "An Analysis of Recent Advances in Deepfake Image Detection in an Evolving Threat Landscape" at the <a href="https://cyberinitiative.org/events-programs/2024/cci-symposium-2024.html">CCI Symposium 2024</a>.</li>
   <li><span style="color:Blue"> [Mar 2024] </span> - Presented my poster on "An Analysis of Recent Advances in Deepfake Image Detection in an Evolving Threat Landscape" at the <a href="https://dmv-sec-workshop.github.io/">DMV Security Workshop 2024</a>.</li>
-  <li><span style="color:Blue"> [Mar 2024] </span> - Our paper titled "An Analysis of Recent Advances in Deepfake Image Detection in an Evolving Threat Landscape" was accepted at <a href="https://sp2024.ieee-security.org/">IEEE S&P 2024</a>, a top-tier A* conference.</li>
+  <li><span style="color:Blue"> [Mar 2024] </span> - Our paper titled "An Analysis of Recent Advances in Deepfake Image Detection in an Evolving Threat Landscape" was accepted at <a href="https://sp2024.ieee-security.org/">IEEE S&P 2024</a>, **a top-tier A\* conference**.</li>
   <li><span style="color:Blue"> [Mar 2024] </span> - Offered <a href="https://cyberinitiative-swva.org/news/events/cci-cyber-start-ups-lab-24.html">CCI SWVA Cyber Innovation Scholarship</a>.</li>
   <li><span style="color:Blue"> [Oct 2023] </span> - Presented my work on ways to integrate Generative AI to your benefit at <a href="https://vt.joinhandshake.com/stu/events/1378245">VT Skillshop Series - Leveraging Creative Technologies</a>.</li>
   <li><span style="color:Blue"> [Oct 2023] </span> - Our Lab was featured in <a href="https://www.vpm.org/2023-10-19/the-dark-side-of-ai">"The Dark Side of AI"</a> by <a href="https://www.vpm.org/">VPM News Focal Point</a>.</li>
@@ -92,7 +92,7 @@ Please contact me with any questions (email on the left).
   <li><span style="color:Blue"> [June 2022] </span> - Our paper on "A First Look at Toxicity Injection Attacks on Open-domain Chatbots" was accepted at <a href="https://www.acsac.org/2023/program/papers/">ACSAC 2023</a>.</li>
   <li><span style="color:Blue"> [July 2023] </span> - Our paper titled "Deepfake Text Detection: Limitations and Opportunities" was featured in <a href="https://cacm.acm.org/magazines/2023/7/274036-the-rise-of-the-chatbots/fulltext">Communications of the ACM</a>.</li>
   <li><span style="color:Blue"> [Nov 2022] </span> - Our paper titled "Deepfake Text Detection: Limitations and Opportunities" was featured in <a href="https://techxplore.com/news/2022-11-strengths-limitations-approaches-deepfake-text.html">TechXplore</a>.</li>
-  <li><span style="color:Blue"> [June 2022] </span> - Our paper on "Deepfake Text Detection: Limitations and Opportunities" was accepted at <a href="https://sp2023.ieee-security.org/">IEEE S&P 2023</a>, a top-tier A* conference.</li>
+  <li><span style="color:Blue"> [June 2022] </span> - Our paper on "Deepfake Text Detection: Limitations and Opportunities" was accepted at <a href="https://sp2023.ieee-security.org/">IEEE S&P 2023</a>, **a top-tier A\* conference**.</li>
 </ul>
 
 </div>
