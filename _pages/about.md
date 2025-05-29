@@ -79,6 +79,8 @@ Please contact me with any questions (email on the left).
 <div>
 <h3>Recent News</h3>
 <ul>
+  <li><span style="color:Blue"> [May 2025] </span> - ML Research Associate Intern at <a href="https://www.hpe.com/us/en/hewlett-packard-labs.html">Hewlett Packard Labs (HPE)</a>.</li>
+  <li><span style="color:Blue"> [Mar 2025] </span> - PC Technical Committee of <a href="https://signalprocessingsociety.org/publications-resources/ieee-transactions-information-forensics-and-security">IEEE Transactions on Information Forensics and Security (IEEE TIFS)</a>.</li>
   <li><span style="color:Blue"> [Dec 2024] </span> - PC Technical Committee of <a href="https://sites.google.com/view/wdc-2025/home">4th Workshop on the Security Implications of Deepfakes and Cheapfakes (WDC'25)</a>.</li>
   <li><span style="color:Blue"> [June 2024] </span> - Our paper got featured in <a href="https://cyberinitiative.org/research/research-showcase-june-2024/an-analysis-of-recent-advances-in-deepfake-image-detection-in-an.html">CCI Research Showcase 2024</a>.</li>
   <li><span style="color:Blue"> [May 2024] </span> - Presented my paper "An Analysis of Recent Advances in Deepfake Image Detection in an Evolving Threat Landscape" at <a href="https://sp2024.ieee-security.org/">IEEE S&P, 2024</a>.</li>
