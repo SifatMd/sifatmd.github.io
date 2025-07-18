@@ -12,13 +12,31 @@ redirect_from:
 </head>
 
 
-Hi! I'm Sifat Muhammad Abdullah, a 5th year Ph.D. student at the Department of Computer Science, [Virginia Tech](https://cs.vt.edu/). I am currently interning at Hewlett Packard (HP) Labs as a Machine Learning Research Associate, working on enhancing the efficiency of LLM fine-tuning, adapting LLMs for diverse applications, and advancing their reasoning capabilities. At Virginia Tech, I am advised by [Dr. Bimal Viswanath](https://people.cs.vt.edu/vbimal/). My research interests center around the security & reasoning capabilities of MLLMs and LLMs. Particularly, I focus on analyzing and enhancing the robustness of Multimodal and Large Language models against adversarial attacks, and leverage inference-time reasoning to make them safer against real-world threats. I have received my Bachelor's degree in Computer Science from [BUET](https://cse.buet.ac.bd/) in April, 2019. 
+Hi! I'm Sifat Muhammad Abdullah, a 5th year Ph.D. student at the Department of Computer Science, [Virginia Tech](https://cs.vt.edu/). I am currently interning at Hewlett Packard Enterprise (HPE) Labs as a Machine Learning Research Associate, working on improving Multi-Agent LLM systems to optimize their real-world applications. At Virginia Tech, I am advised by [Dr. Bimal Viswanath](https://people.cs.vt.edu/vbimal/). My research interests center around the security & reasoning capabilities of MLLMs and LLMs. Particularly, I focus on analyzing and enhancing the robustness of Multimodal and Large Language models against adversarial attacks, and leverage inference-time reasoning to make them safer against real-world threats. I have received my Bachelor's degree in Computer Science from [BUET](https://cse.buet.ac.bd/) in April, 2019. 
 
 Please contact me with any questions (email on the left).
 
 
 <div>
 <h3>Publications</h3>
+
+<b>TuneShield: Mitigating Toxicity in Conversational AI while Fine-tuning on Untrusted Data</b>
+<br>Aravind Cheruvu, Shravya Kanchi, <b>Sifat Muhammad Abdullah</b>, Nicholas Kong, Daphne Yao, Murtuza Jadliwala, Bimal Viswanath.
+<br>ArXiv, 2025.
+<br>
+<a href="https://arxiv.org/abs/2507.05660" class="btn-sm btn-success text-decoration-none">PDF</a>
+
+<br>
+<br>
+
+<b>Taming Data Challenges in ML-based Security Tasks: Lessons from Integrating Generative AI</b>
+<br>Shravya Kanchi, Neal Mangaokar, Aravind Cheruvu, <b>Sifat Muhammad Abdullah</b>, Shirin Nilizadeh, Atul Prakash, Bimal Viswanath.
+<br>ArXiv, 2025.
+<br>
+<a href="https://arxiv.org/abs/2507.06092" class="btn-sm btn-success text-decoration-none">PDF</a>
+
+<br>
+<br>
 
 <b>An Analysis of Recent Advances in Deepfake Image Detection in an Evolving Threat Landscape</b>
 <br><b>Sifat Muhammad Abdullah</b>, Aravind Cheruvu, Shravya Kanchi, Taejoong Chung, Peng Gao, Murtuza Jadliwala, Bimal Viswanath.
