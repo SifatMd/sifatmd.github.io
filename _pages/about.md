@@ -20,6 +20,15 @@ Please contact me with any questions (email on the left).
 <div>
 <h3>Publications</h3>
 
+<b>Sustainable Control of Geo-Distributed Datacenters by Distilling Numerical Experts into Adaptive LLM Agents</b>
+<br>Antonio Guillen-Perez, Ashwin Ramesh Babu, Sahand Ghorbanpour, Avisek Naug, Vineet Gundecha, <b>Sifat Muhammad Abdullah</b>, Ricardo Luna Gutierrez, Soumyendu Sarkar.
+<br>NeurIPS MLForSys Workshop, 2025.
+<br>
+<a href="#" class="btn-sm btn-success text-decoration-none">PDF (Available soon)</a>
+
+<br>
+<br>
+
 <b>TuneShield: Mitigating Toxicity in Conversational AI while Fine-tuning on Untrusted Data</b>
 <br>Aravind Cheruvu, Shravya Kanchi, <b>Sifat Muhammad Abdullah</b>, Nicholas Kong, Daphne Yao, Murtuza Jadliwala, Bimal Viswanath.
 <br>ArXiv, 2025.
