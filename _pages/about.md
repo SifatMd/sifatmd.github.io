@@ -106,6 +106,7 @@ Please contact me with any questions (email on the left).
 <div>
 <h3>Recent News</h3>
 <ul>
+  <li><span style="color:Blue"> [Sep 2025] </span> - One of my internship projects got accepted to <a href="https://mlforsystems.org/">NeurIPS Workshop</a>, 2025</li>
   <li><span style="color:Blue"> [Aug 2025] </span> - Awarded Pratt Fellowship 2025 in Computer Science at VT.</li>
   <li><span style="color:Blue"> [July 2025] </span> - Technical Committee of <a href="https://sites.google.com/view/3d-sec2025/home">Deepfake, Deception, and Disinformation Security Workshop (3D-Sec)</a> 2025.</li>
   <li><span style="color:Blue"> [May 2025] </span> - ML Research Associate Intern at <a href="https://www.hpe.com/us/en/hewlett-packard-labs.html">Hewlett Packard Labs (HPE)</a>.</li>
