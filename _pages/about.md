@@ -106,6 +106,8 @@ Please contact me with any questions at <i><b>sifat.abdullah577@gmail.com</b></i
 <div>
 <h3>Recent News</h3>
 <ul>
+  <li><span style="color:Blue"> [Nov 2025] </span> - 🎓I have successfully defended my Ph.D. dissertation!</li>
+  <li><span style="color:Blue"> [Nov 2025] </span> - 🎉Our paper titled "Taming Data Challenges in ML-based Security Tasks: Lessons from Integrating Generative AI" was accepted at <a href="https://asiaccs2026.cse.iitkgp.ac.in/">ACM ASIACCS</a>, 2026</li>
   <li><span style="color:Blue"> [Sep 2025] </span> - 🎉One of my internship projects got accepted to <a href="https://mlforsystems.org/">NeurIPS Workshop</a>, 2025</li>
   <li><span style="color:Blue"> [Aug 2025] </span> - Awarded Pratt Fellowship 2025 in Computer Science at VT.</li>
   <li><span style="color:Blue"> [July 2025] </span> - Technical Committee of <a href="https://sites.google.com/view/3d-sec2025/home">Deepfake, Deception, and Disinformation Security Workshop (3D-Sec)</a> 2025.</li>
