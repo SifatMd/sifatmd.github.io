@@ -24,7 +24,7 @@ Please contact me with any questions at <i><b>sifat.abdullah577@gmail.com</b></i
 <br>Antonio Guillen-Perez, Ashwin Ramesh Babu, Sahand Ghorbanpour, Avisek Naug, Vineet Gundecha, <b>Sifat Muhammad Abdullah</b>, Ricardo Luna Gutierrez, Soumyendu Sarkar.
 <br>NeurIPS MLForSys Workshop, 2025.
 <br>
-<a href="#" class="btn-sm btn-success text-decoration-none">PDF (Available soon)</a>
+<a href="https://openreview.net/pdf?id=yvikkn0OD3" class="btn-sm btn-success text-decoration-none">PDF</a>
 
 <br>
 <br>
