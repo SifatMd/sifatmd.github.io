@@ -21,7 +21,7 @@ Please contact me with any questions at <i><b>sifat.abdullah577@gmail.com</b></i
 <h3>Publications</h3>
 
 <b>Off-The-Shelf Image-to-Image Models Are All You Need To Defeat Image Protection Schemes</b>
-<br><b>Sifat Muhammad Abdullah</b>*, Xavier Pleimling, Gunjan Balde, Peng Gao, Mainack Mondal, Murtuza Jadliwala, Bimal Viswanath.
+<br><b>Sifat Muhammad Abdullah</b>*, Xavier Pleimling*, Gunjan Balde, Peng Gao, Mainack Mondal, Murtuza Jadliwala, Bimal Viswanath.
 <br>IEEE SaTML, 2026.
 <br>
 <a href="#" class="btn-sm btn-success text-decoration-none">PDF (available soon)</a>
