@@ -20,6 +20,15 @@ Please contact me with any questions at <i><b>sifat.abdullah577@gmail.com</b></i
 <div>
 <h3>Publications</h3>
 
+<b>Off-The-Shelf Image-to-Image Models Are All You Need To Defeat Image Protection Schemes</b>
+<br><b>Sifat Muhammad Abdullah</b>*, Xavier Pleimling, Gunjan Balde, Peng Gao, Mainack Mondal, Murtuza Jadliwala, Bimal Viswanath.
+<br>IEEE SaTML, 2026.
+<br>
+<a href="#" class="btn-sm btn-success text-decoration-none">PDF (available soon)</a>
+
+<br>
+<br>
+
 
 <b>Taming Data Challenges in ML-based Security Tasks: Lessons from Integrating Generative AI</b>
 <br>Shravya Kanchi, Neal Mangaokar, Aravind Cheruvu, <b>Sifat Muhammad Abdullah</b>, Shirin Nilizadeh, Atul Prakash, Bimal Viswanath.
@@ -111,6 +120,7 @@ Please contact me with any questions at <i><b>sifat.abdullah577@gmail.com</b></i
 <div>
 <h3>Recent News</h3>
 <ul>
+  <li><span style="color:Blue"> [Dec 2025] </span> - 🎉Our paper titled "Off-The-Shelf Image-to-Image Models Are All You Need To Defeat Image Protection Schemes" was accepted at <a href="https://satml.org/">IEEE SaTML</a>, 2026</li>
   <li><span style="color:Blue"> [Nov 2025] </span> - 🎓I have successfully defended my Ph.D. dissertation!</li>
   <li><span style="color:Blue"> [Nov 2025] </span> - 🎉Our paper titled "Taming Data Challenges in ML-based Security Tasks: Lessons from Integrating Generative AI" was accepted at <a href="https://asiaccs2026.cse.iitkgp.ac.in/">ACM ASIACCS</a>, 2026</li>
   <li><span style="color:Blue"> [Sep 2025] </span> - 🎉One of my internship projects got accepted to <a href="https://mlforsystems.org/">NeurIPS Workshop</a>, 2025</li>
