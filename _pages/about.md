@@ -12,9 +12,9 @@ redirect_from:
 </head>
 
 
-Hi! I'm Dr. Sifat Muhammad Abdullah, a recent Ph.D. graduate at the Department of Computer Science, [Virginia Tech](https://cs.vt.edu/). I recently interned at Hewlett Packard Enterprise (HPE) Labs as a Machine Learning Research Associate, working on deploying Multi-LLM reasoning systems to optimize real-world applications. At Virginia Tech, I am advised by [Dr. Bimal Viswanath](https://people.cs.vt.edu/vbimal/). My research interests center around the security & reasoning capabilities of MLLMs and LLMs. Particularly, I focus on analyzing and enhancing the robustness of Multimodal and Large Language models against adversarial attacks, and leveraging multimodal inference-time reasoning to make them safer against real-world threats. I have received my Bachelor's degree in Computer Science from [BUET](https://cse.buet.ac.bd/) in April, 2019. 
+Hi! I'm Dr. Sifat Muhammad Abdullah, PostDoc ML Research Scientist at Hewlett Packard Labs, working on Knowledge Distillation for LLMs. I graduated from [Virginia Tech](https://cs.vt.edu/) with a Ph.D. in Computer Science, where I was advised by [Dr. Bimal Viswanath](https://people.cs.vt.edu/vbimal/). My research interests center around the robustness & reasoning capabilities of MLLMs and LLMs. <!-- Particularly, I focus on analyzing and enhancing the robustness of Multimodal and Large Language models against adversarial attacks, and leveraging multimodal inference-time reasoning to make them safer against real-world threats. --> <!-- I have received my Bachelor's degree in Computer Science from [BUET](https://cse.buet.ac.bd/) in April, 2019. -->
 
-Please contact me with any questions at <i><b>sifat.abdullah577@gmail.com</b></i> (personal) or <i><b>sifat@vt.edu</b></i> (institution).
+Please contact me with any questions at <i><b>sifat.abdullah577@gmail.com</b></i>.
 
 
 <div>
