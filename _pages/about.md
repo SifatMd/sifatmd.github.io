@@ -120,6 +120,7 @@ Please contact me with any questions at <i><b>sifat.abdullah577@gmail.com</b></i
 <div>
 <h3>Recent News</h3>
 <ul>
+  <li><span style="color:Blue"> [Feb 2026] </span> - Joined <a href="https://www.hpe.com/us/en/hewlett-packard-labs.html">Hewlett Packard Labs (HPE)</a> as PostDoc ML Research Scientist.</li>
   <li><span style="color:Blue"> [Jan 2026] </span> - PC Technical Committee of <a href="https://sites.google.com/view/wdc-2026/home">5th Workshop on the Security Implications of Deepfakes and Cheapfakes (WDC'26)</a>.</li>
   <li><span style="color:Blue"> [Dec 2025] </span> - 🎉Our paper titled "Off-The-Shelf Image-to-Image Models Are All You Need To Defeat Image Protection Schemes" was accepted at <a href="https://satml.org/">IEEE SaTML</a>, 2026</li>
   <li><span style="color:Blue"> [Nov 2025] </span> - 🎓I have successfully defended my Ph.D. dissertation!</li>
