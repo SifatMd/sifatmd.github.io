@@ -24,7 +24,7 @@ Please contact me with any questions at <i><b>sifat.abdullah577@gmail.com</b></i
 <br>Xavier Pleimling*, <b>Sifat Muhammad Abdullah</b>*, Gunjan Balde, Peng Gao, Mainack Mondal, Murtuza Jadliwala, Bimal Viswanath.
 <br>IEEE SaTML, 2026.
 <br>
-<a href="#" class="btn-sm btn-success text-decoration-none">PDF (available soon)</a>
+<a href="https://arxiv.org/abs/2602.22197" class="btn-sm btn-success text-decoration-none">PDF</a>
 
 <br>
 <br>
