@@ -32,6 +32,17 @@ Please contact me with any questions at <i><b>sifat.abdullah577@gmail.com</b></i
 <br>
 
 
+<b>Optimus: A Robust Defense Framework for Mitigating Toxicity while Fine-Tuning Conversational AI</b>
+<br>Aravind Cheruvu, Shravya Kanchi, <b>Sifat Muhammad Abdullah</b>, Nicholas Kong, Daphne Yao, Murtuza Jadliwala, Bimal Viswanath.
+<br>ACM CODASPY, 2026.
+<br>
+<a href="https://arxiv.org/pdf/2507.05660" class="btn-sm btn-success text-decoration-none">PDF</a>
+<a href="https://github.com/secml-lab-vt/Optimus" class="btn-sm btn-danger text-decoration-none">Code and Datasets</a>
+
+<br>
+<br>
+
+
 <b>Taming Data Challenges in ML-based Security Tasks: Lessons from Integrating Generative AI</b>
 <br>Shravya Kanchi, Neal Mangaokar, Aravind Cheruvu, <b>Sifat Muhammad Abdullah</b>, Shirin Nilizadeh, Atul Prakash, Bimal Viswanath.
 <br>ACM ASIACCS, 2026.
@@ -48,16 +59,6 @@ Please contact me with any questions at <i><b>sifat.abdullah577@gmail.com</b></i
 <br>NeurIPS MLForSys Workshop, 2025.
 <br>
 <a href="https://openreview.net/pdf/96027dfffb1849cce8aaf7a7d2f25536f51da47e.pdf" class="btn-sm btn-success text-decoration-none">PDF</a>
-
-<br>
-<br>
-
-
-<b>TuneShield: Mitigating Toxicity in Conversational AI while Fine-tuning on Untrusted Data</b>
-<br>Aravind Cheruvu, Shravya Kanchi, <b>Sifat Muhammad Abdullah</b>, Nicholas Kong, Daphne Yao, Murtuza Jadliwala, Bimal Viswanath.
-<br>ArXiv, 2025.
-<br>
-<a href="https://arxiv.org/abs/2507.05660" class="btn-sm btn-success text-decoration-none">PDF</a>
 
 <br>
 <br>
