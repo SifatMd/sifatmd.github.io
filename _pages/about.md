@@ -12,7 +12,7 @@ redirect_from:
 </head>
 
 
-Hi! I'm Dr. Sifat Muhammad Abdullah, Machine Learning Engineer (MLE) at Hewlett Packard Labs. I graduated from [Virginia Tech](https://cs.vt.edu/) with a Ph.D. in Computer Science, where I was advised by [Dr. Bimal Viswanath](https://people.cs.vt.edu/vbimal/). My research interests center around the robustness, efficiency and security of LLMs. <!-- Particularly, I focus on analyzing and enhancing the robustness of Multimodal and Large Language models against adversarial attacks, and leveraging multimodal inference-time reasoning to make them safer against real-world threats. --> <!-- I have received my Bachelor's degree in Computer Science from [BUET](https://cse.buet.ac.bd/) in April, 2019. -->
+Hi! I'm Dr. Sifat Muhammad Abdullah, Machine Learning Engineer (MLE) at Hewlett Packard Labs. I graduated from [Virginia Tech](https://cs.vt.edu/) with a Ph.D. in Computer Science, where I was advised by [Dr. Bimal Viswanath](https://people.cs.vt.edu/vbimal/). My research interests center around the robustness, efficiency and security of Machine Learning & LLMs. <!-- Particularly, I focus on analyzing and enhancing the robustness of Multimodal and Large Language models against adversarial attacks, and leveraging multimodal inference-time reasoning to make them safer against real-world threats. --> <!-- I have received my Bachelor's degree in Computer Science from [BUET](https://cse.buet.ac.bd/) in April, 2019. -->
 
 Please contact me with any questions at <i><b>sifat.abdullah577@gmail.com</b></i>.
 
