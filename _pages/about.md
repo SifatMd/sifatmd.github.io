@@ -125,7 +125,8 @@ Please contact me with any questions at <i><b>sifat.abdullah577@gmail.com</b></i
 <h3>Recent News</h3>
 <ul>
   <li><span style="color:Blue"> [May 2026] </span> - PC member at <a href="https://space2026.isec.tugraz.at/">International Conference on Security, Privacy and Applied Cryptographic Engineering (SPACE)</a> 2026.</li>
-  <li><span style="color:Blue"> [Apr 2026] </span> - Reviewer at <a href="https://dl.acm.org/journal/tdsc">IEEE Transactions on Dependable and Secure Computing (TDSC)</a>.</li>
+  <li><span style="color:Blue"> [May 2026] </span> - Promoted to Machine Learning Engineer at <a href="https://www.hpe.com/us/en/hewlett-packard-labs.html">Hewlett Packard Enterprise Labs (HPE)</a>.</li>
+  <li><span style="color:Blue"> [Apr 2026] </span> - Reviewer at <a href="https://dl.acm.org/journal/tdsc">IEEE Transactions on Dependable and Secure Computing (TDSC)</a> 2026.</li>
   <li><span style="color:Blue"> [Feb 2026] </span> - Joined <a href="https://www.hpe.com/us/en/hewlett-packard-labs.html">Hewlett Packard Labs (HPE)</a> as PostDoc ML Research Scientist.</li>
   <li><span style="color:Blue"> [Jan 2026] </span> - PC Technical Committee of <a href="https://sites.google.com/view/wdc-2026/home">5th Workshop on the Security Implications of Deepfakes and Cheapfakes (WDC'26)</a>.</li>
   <li><span style="color:Blue"> [Dec 2025] </span> - 🎉Our paper titled "Off-The-Shelf Image-to-Image Models Are All You Need To Defeat Image Protection Schemes" was accepted at <a href="https://satml.org/">IEEE SaTML</a>, 2026</li>
