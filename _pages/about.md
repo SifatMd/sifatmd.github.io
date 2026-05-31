@@ -12,7 +12,7 @@ redirect_from:
 </head>
 
 
-Hi! I'm Dr. Sifat Muhammad Abdullah, Machine Learning Engineer (MLE) at Hewlett Packard Labs. I graduated from [Virginia Tech](https://cs.vt.edu/) with a Ph.D. in Computer Science, where I was advised by [Dr. Bimal Viswanath](https://people.cs.vt.edu/vbimal/). My research interests center around the robustness, efficiency and security of Machine Learning & LLMs. <!-- Particularly, I focus on analyzing and enhancing the robustness of Multimodal and Large Language models against adversarial attacks, and leveraging multimodal inference-time reasoning to make them safer against real-world threats. --> <!-- I have received my Bachelor's degree in Computer Science from [BUET](https://cse.buet.ac.bd/) in April, 2019. -->
+Hi! I'm Dr. Sifat Muhammad Abdullah, Machine Learning Engineer (MLE) at Hewlett Packard Enterprise Labs. I graduated from [Virginia Tech](https://cs.vt.edu/) with a Ph.D. in Computer Science, where I was advised by [Dr. Bimal Viswanath](https://people.cs.vt.edu/vbimal/). My research interests center around the robustness, efficiency and security of Machine Learning & LLMs. During my Ph.D., I studied the security of Machine Learning, with a focus on improving LLM safety, mitigating toxicity, and strengthening the robustness of Generative AI content detection and protection methods. In my current work, I focus on improving the efficiency and optimization of LLMs for real-world applications, particularly in data center settings. <!-- Particularly, I focus on analyzing and enhancing the robustness of Multimodal and Large Language models against adversarial attacks, and leveraging multimodal inference-time reasoning to make them safer against real-world threats. --> <!-- I have received my Bachelor's degree in Computer Science from [BUET](https://cse.buet.ac.bd/) in April, 2019. -->
 
 Please contact me with any questions at <i><b>sifat.abdullah577@gmail.com</b></i>.
 
@@ -124,6 +124,8 @@ Please contact me with any questions at <i><b>sifat.abdullah577@gmail.com</b></i
 <div>
 <h3>Recent News</h3>
 <ul>
+  <li><span style="color:Blue"> [May 2026] </span> - PC member at <a href="https://space2026.isec.tugraz.at/">International Conference on Security, Privacy and Applied Cryptographic Engineering (SPACE)</a> 2026.</li>
+  <li><span style="color:Blue"> [Apr 2026] </span> - Reviewer at <a href="https://dl.acm.org/journal/tdsc">IEEE Transactions on Dependable and Secure Computing (TDSC)</a>.</li>
   <li><span style="color:Blue"> [Feb 2026] </span> - Joined <a href="https://www.hpe.com/us/en/hewlett-packard-labs.html">Hewlett Packard Labs (HPE)</a> as PostDoc ML Research Scientist.</li>
   <li><span style="color:Blue"> [Jan 2026] </span> - PC Technical Committee of <a href="https://sites.google.com/view/wdc-2026/home">5th Workshop on the Security Implications of Deepfakes and Cheapfakes (WDC'26)</a>.</li>
   <li><span style="color:Blue"> [Dec 2025] </span> - 🎉Our paper titled "Off-The-Shelf Image-to-Image Models Are All You Need To Defeat Image Protection Schemes" was accepted at <a href="https://satml.org/">IEEE SaTML</a>, 2026</li>
