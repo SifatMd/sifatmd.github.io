@@ -126,6 +126,7 @@ Please contact me with any questions at <i><b>sifat.abdullah577@gmail.com</b></i
 <ul>
   <li><span style="color:Blue"> [May 2026] </span> - PC member at <a href="https://space2026.isec.tugraz.at/">International Conference on Security, Privacy and Applied Cryptographic Engineering (SPACE)</a> 2026.</li>
   <li><span style="color:Blue"> [May 2026] </span> - Promoted to Machine Learning Engineer (MLE) at <a href="https://www.hpe.com/us/en/hewlett-packard-labs.html">Hewlett Packard Enterprise Labs (HPE)</a>.</li>
+  <li><span style="color:Blue"> [Apr 2026] </span> - Our IEEE SaTML 2026 research paper got featured in <a href="https://news.vt.edu/articles/2026/04/eng-cs-deepfake-cybersecurity-vulnerable-to-AI.html">Virginia Tech News</a>.</li>
   <li><span style="color:Blue"> [Apr 2026] </span> - Reviewer at <a href="https://dl.acm.org/journal/tdsc">IEEE Transactions on Dependable and Secure Computing (TDSC)</a> 2026.</li>
   <li><span style="color:Blue"> [Feb 2026] </span> - Joined <a href="https://www.hpe.com/us/en/hewlett-packard-labs.html">Hewlett Packard Enterprise Labs (HPE)</a> as PostDoc ML Research Scientist.</li>
   <li><span style="color:Blue"> [Jan 2026] </span> - PC Technical Committee of <a href="https://sites.google.com/view/wdc-2026/home">5th Workshop on the Security Implications of Deepfakes and Cheapfakes (WDC'26)</a>.</li>
